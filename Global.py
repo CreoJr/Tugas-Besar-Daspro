@@ -1,7 +1,7 @@
 import datetime
 import typing
 time = datetime.datetime.now()
- 
+
 y = time.year
 mn = time.month
 d = time.day
